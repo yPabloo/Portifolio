@@ -1,0 +1,31 @@
+body {
+    background-color: #191970;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.root-image{
+    height: 40px;
+}
+.container{
+    color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#letra{
+    color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#texto{
+    width: 76%;
+    text-align: center;
+}
+.Pag2{
+    background-color: #483D8B;
+}
+.Pag3{
+    text-align: center;
+}
+.Pag4{
+    text-align: center;
+    background-color: #008B8B;
+}
