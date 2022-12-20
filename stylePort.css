@@ -6,10 +6,12 @@ body {
 .root-image{
     height: 40px;
 }
-.container{
+#primeira{
     color: antiquewhite;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    padding-top: 102px;
+    padding-bottom: 150px;
 }
 #letra{
     color: antiquewhite;
@@ -19,13 +21,26 @@ body {
     width: 76%;
     text-align: center;
 }
-.Pag2{
+#Pag2{
     background-color: #483D8B;
+    padding-bottom: 180px;
 }
 .Pag3{
     text-align: center;
 }
 .Pag4{
+    text-align: center;
+    padding-top: 50px;
+}
+.Pag5{
+    text-align: center;
+    padding-top: 50px;
+}
+.Pag6{
+    text-align: center;
+    padding-top: 50px;
+}
+.Pag7{
     text-align: center;
     background-color: #008B8B;
 }
